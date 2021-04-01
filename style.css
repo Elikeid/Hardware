@@ -692,12 +692,12 @@ text-align: center;
 
 
 .button-hov{
-  cursor: pointer;
-  margin-top: 7px;
-  height: 32px;
-  padding-top: 7px;
-  color: white;
-  background-color: #faaf3f;
+cursor: pointer;
+margin-top: 7px;
+height: 32px;
+padding-top: 7px;
+color: white;
+background-color: #faaf3f;
   
 }
 
