@@ -695,9 +695,10 @@ text-align: center;
 cursor: pointer;
 margin-top: 7px;
 height: 32px;
-padding-top: 7px;
+padding-top: 8px;
 color: white;
 background-color: #faaf3f;
+text-align: center;
   
 }
 
@@ -963,13 +964,13 @@ justify-content: space-between;
 
 .header__tag {
 width: 92px;
-height: 24px;
+height: 24.19px;
 background: #333333;
 border-radius: 2px;
 }
 
 .tag__text {
-padding-top: 3px;
+padding-top: 3.06px;
 width: 91.37px;
 font-family: "brutal";
 font-size: 14px;
