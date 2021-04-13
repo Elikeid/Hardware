@@ -809,14 +809,7 @@ line-height: 24px;
 color: #333333;
 }
 
-.inside__button {
-margin-top: 13px;
-background: #faaf3f;
-border-radius: 2px;
-text-align: center;
-display: flex;
-align-items: center;
-}
+
 
 .newspanel__item_medium {
 width: 251px;
@@ -956,6 +949,8 @@ width: 100%;
 cursor: pointer;
 background-color: #faaf3f;
 }
+
+
 
 .inside__header {
 display: flex;
@@ -1119,6 +1114,11 @@ margin-top: 10px;
 
 
 .series__item .button-hov:hover {
+  background: #f49f21;
+  
+}
+
+.button-orange:hover {
   background: #f49f21;
   
 }
