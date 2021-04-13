@@ -1115,11 +1115,11 @@ margin-top: 10px;
 
 .series__item .button-hov:hover {
   background: #f49f21;
-  
 }
 
 .button-orange:hover {
- background: #f49f21;  
+  background: #f49f21;
+  
 }
 
 .newspanel__item .inside__header .header__link:hover {
@@ -1145,10 +1145,6 @@ margin-top: 10px;
   opacity: 100%;
 }
 
-.newspanel__item_large .inside__button:hover {
-  background: #f49f21;
-  cursor: pointer;
-}
 
 .newspanel__item_medium .inside__content:hover {
   cursor: pointer;
@@ -1165,10 +1161,6 @@ margin-top: 10px;
 
 .newspanel__item_medium .inside__content:hover .hidden {
   opacity: 100%;
-}
-
-.newspanel__item_medium .inside__button:hover {
-  background: #f49f21;
 }
 
 .newsfeed .content__wrapper ul li:hover::before {
