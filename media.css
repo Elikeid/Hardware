@@ -56,11 +56,11 @@
 
 .menu__arrows img:first-child:hover{  
   background: url(img/arrowhid1.png);
-  
+  cursor: pointer;
 }
 .menu__arrows img:last-child:hover{
   background: url(img/arrowhid2.png);
-  
+  cursor: pointer;
 }
 
 .newspanel__item_medium .inside__content:hover {
