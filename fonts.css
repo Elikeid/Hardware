@@ -1,0 +1,59 @@
+@font-face {
+    font-family: brutal;
+    src: url("font/BrutalBold.woff");
+    font-weight: 400;
+    }
+    
+    @font-face {
+    font-family: brutal;
+    src: url("font/BrutalRegular.woff");
+    font-weight: 500;
+    }
+    
+    @font-face {
+    font-family: brutal;
+    src: url("font/BrutalMedium.woff");
+    font-weight: 700;
+    }
+    
+    
+    
+    @font-face {
+    font-family: ptsansBold;
+    src: url("font/PTSans-Bold.ttf");
+    font-weight: 400;
+    }
+    
+    
+    
+    @font-face {
+    font-family: ptsansBoldItalic;
+    src: url("font/PTSans-BoldItalic.ttf");
+    font-weight: 400;
+    }
+    
+    @font-face {
+    font-family: ptsansItalic;
+    src: url("font/PTSans-Italic.ttf");
+    font-weight: 400;
+    }
+    
+    @font-face {
+    font-family: ptsansRegular;
+    src: url("font/PTSans-Regular.ttf");
+    font-weight: 400;
+    }
+    
+    @font-face {
+    font-family: ptsansCaptionRegular;
+    src: url("font/PTSansCaption-Regular.ttf");
+    font-weight: 400;
+    }
+    
+    @font-face {
+    font-family: ptsans;
+    src: url("font/pt-sans.ttf");
+    font-weight: 400;
+    }
+    
+    
